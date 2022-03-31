@@ -3,3 +3,10 @@
  -In X,Y,Z for reference co-ordinates.
  -In U,V,W for rotated co-ordinates.
 * Create matrix 
+* 
+
+Reference.
+
+    https://en.wikipedia.org/wiki/Rotation_matrix (sub topic: in three dimension).
+
+
