@@ -1,5 +1,10 @@
 #include<stdio.h>
-#include"head.h"
+
+#include"header.h"
+
+
+
+
 
 
 

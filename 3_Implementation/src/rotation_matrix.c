@@ -1,6 +1,10 @@
 #include<stdio.h>
 #include<math.h>
-#include"head.h"
+
+
+void mult_matrix(float [][3],float,float,float);
+
+void standard_matrix(float ,float ,float ,float  ,int ,int);
 
 
 
