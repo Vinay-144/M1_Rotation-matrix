@@ -20,3 +20,6 @@
 
 * Unit test
 [![Build CI Linux](https://github.com/Vinay-144/M1_Rotation-matrix/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Vinay-144/M1_Rotation-matrix/actions/workflows/c-cpp.yml)
+
+* C-I windows
+[![CppCheck analysis](https://github.com/Vinay-144/M1_Rotation-matrix/actions/workflows/cppcheck_analysis.yml/badge.svg)](https://github.com/Vinay-144/M1_Rotation-matrix/actions/workflows/cppcheck_analysis.yml)
