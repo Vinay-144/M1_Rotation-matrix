@@ -6,12 +6,6 @@
 * Robotics to determine 
   To determine end effector position, robotic arm position.
 
-# Approach
-* Create a switch case where user selects to convert from reference co-ordinates to rotated co-ordinates or viceversa.
-* Create matrix header function that takes in either reference co-ordinates or rotated co-ordinates.
- -In X,Y,Z for reference co-ordinates.
- -In U,V,W for rotated co-ordinates.
-* Create matrix 
 
 # 4W1H
 * Where: Often used in Linear algebra, Physics, Computer Graphics 3-D printing etc
@@ -39,6 +33,23 @@ Rotation matrices are square matrices, with real entries. More specifically, the
 
 Reference:
 https://en.wikipedia.org/wiki/Rotation_matrix
+
+# High-Level Requirement
+* Create a switch case where user selects to convert from reference co-ordinates to rotated co-ordinates or viceversa.
+* Create matrix header function that takes in either reference co-ordinates or rotated co-ordinates.
+ -In X,Y,Z for reference co-ordinates.
+ -In U,V,W for rotated co-ordinates.
+* Create matrix 
+
+# Low-Level Requirement
+* Each function i.e
+* Rotation from reference to rotated co-ordinate.
+* Rotation from rotated to reference co-ordintae.
+* scaling matrix
+* translation matrix
+* consist of standard matrix to perform particular function which is declared as a floating point 2-array of 3*3.
+* when user enters the co-ordinates the input co-ordinates is in the form of 3*1 matrix which is then multiplied with standard matrix using matrix_multiplication function to give desired output.
+
 
 
 
