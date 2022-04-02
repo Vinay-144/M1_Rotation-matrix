@@ -23,5 +23,9 @@
 * For translation matrix
 * Output:sum of 3-axis floating point
 
+# Test for invalid input.
+* for case > 2
+* alt_case > 4
+
 
 Note: For further info plz refer folder 4_TestPlanAndOutput/test_plan.
