@@ -1,4 +1,5 @@
 # Problem statement
+* These tranformations are often used in order to provide 3-D user experience. 
 * Used in Linear algebra, physics, computer graphics etc;
 * Used in image processing 
   To determine transformed co-ordinates
@@ -11,6 +12,17 @@
  -In X,Y,Z for reference co-ordinates.
  -In U,V,W for rotated co-ordinates.
 * Create matrix 
+
+# 4W1H
+* Where: Often used in Linear algebra, Physics, Computer Graphics 3-D printing etc
+* When:  ALgorithms used back the in 1950's were non-compatibe and were computationally slow It is used all the time by any graphical related devices.
+* Who:   computer provides input i.e reference frame and get desired output in rotated frame.
+* when:  After lot of research they came up with brilliant method to  transform so that user experience 3-D expirience on 2_D screen 
+* How:   A standard matrix is multiplied with user given input to obtain desired output.
+  - It basically consist of rotation.
+  - Translation.
+  - Scaling.
+  
 
 # Information
 * In linear algebra, a rotation matrix is a transformation matrix that is used to perform a rotation in Euclidean space.
